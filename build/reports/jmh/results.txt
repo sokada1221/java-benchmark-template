@@ -1,0 +1,10 @@
+Benchmark                        (count)  Mode  Cnt      Score      Error  Units
+ExampleBenchmark.measureNeutral        1  avgt   25     31.049 ±    0.212  ns/op
+ExampleBenchmark.measureNeutral       16  avgt   25    116.338 ±    5.493  ns/op
+ExampleBenchmark.measureNeutral      256  avgt   25  58579.108 ± 5705.416  ns/op
+ExampleBenchmark.measureRight          1  avgt   25      5.673 ±    0.046  ns/op
+ExampleBenchmark.measureRight         16  avgt   25     90.608 ±    1.177  ns/op
+ExampleBenchmark.measureRight        256  avgt   25  59929.694 ± 2164.228  ns/op
+ExampleBenchmark.measureWrong          1  avgt   25      2.262 ±    0.068  ns/op
+ExampleBenchmark.measureWrong         16  avgt   25      9.491 ±    0.195  ns/op
+ExampleBenchmark.measureWrong        256  avgt   25    101.326 ±    0.720  ns/op

@@ -1,0 +1,10 @@
+dontinline,*.*_all_jmhStub
+dontinline,*.*_avgt_jmhStub
+dontinline,*.*_sample_jmhStub
+dontinline,*.*_ss_jmhStub
+dontinline,*.*_thrpt_jmhStub
+inline,org/openjdk/jmh/samples/ExampleBenchmark$Data.setup
+inline,org/openjdk/jmh/samples/ExampleBenchmark$DataCopy.setup2
+inline,org/openjdk/jmh/samples/ExampleBenchmark.measureNeutral
+inline,org/openjdk/jmh/samples/ExampleBenchmark.measureRight
+inline,org/openjdk/jmh/samples/ExampleBenchmark.measureWrong
